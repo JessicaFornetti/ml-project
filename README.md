@@ -2,11 +2,11 @@
 
 This project provides a comparison of different ... for 3 different datasets.
 
-The project uses the following datasets :
+The project uses the following datasets from Kaggle :
 
-- Credit Fraud : 
-- Bank Marketing : 
-- Employee Attrition : 
+- [Credit Fraud](https://www.kaggle.com/code/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets)
+- [Bank Marketing](https://www.kaggle.com/code/henriqueyamahata/bank-marketing-imbalanced-dataset-94)
+- [Employee Attrition](https://www.kaggle.com/code/junglisher/employee-attrition-analysis/input) 
 
 The goal of this project is to ... 
 
