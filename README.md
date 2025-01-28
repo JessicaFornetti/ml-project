@@ -1,6 +1,6 @@
 # ml-project
 
-This project provides a comparison of different ... for 3 different datasets.
+This project provides a comparison of different supervised learning models to predict churn behavior/fraud/customer attrition on 3 different datasets dealing with unbalanced data.
 
 The project uses the following datasets from Kaggle :
 
@@ -8,9 +8,7 @@ The project uses the following datasets from Kaggle :
 - [Bank Marketing](https://www.kaggle.com/code/henriqueyamahata/bank-marketing-imbalanced-dataset-94)
 - [Employee Attrition](https://www.kaggle.com/code/junglisher/employee-attrition-analysis/input) 
 
-The goal of this project is to ... 
-
-The main steps of the project are outlined below, each part has it's own notebook:
+The main steps of the project are outlined below, each session was conducted in a seperate notebook:
 
 - **Session 1 - Exploratory Analysis of Imbalanced Data** :
 - **Session 2: Churn Prediction (Part I)** :
