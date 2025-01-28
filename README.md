@@ -20,4 +20,4 @@ The main steps of the project are outlined below, each part has it's own noteboo
 This project was completed as part of the course Machine Learning for Data Science at University Paris Cité, France. Therefore the comments and analysis are written in French, except for the pdf report which has been translated.
 
 # Repository Overview
-This repository contains 4 Jupyter notebooks, one for each session, [ML_Seance1](ML_Seance1.ipynb), [ML_Seance2](ML_Seance2.ipynb), [ML_Seance3](ML_Seance3.ipynb), [ML_Seance4](ML_Seance4.ipynb) and an [original version of the report in French](ML_Report \(Original version\).pdf) as well as a [translated version of the report](ML_Report \(Translated\).pdf).
+This repository contains 4 Jupyter notebooks, one for each session, [ML_Seance1](ML_Seance1.ipynb), [ML_Seance2](ML_Seance2.ipynb), [ML_Seance3](ML_Seance3.ipynb), [ML_Seance4](ML_Seance4.ipynb) and an [original version of the report in French](ML_Report /(Original version/).pdf) as well as a [translated version of the report](ML_Report /(Translated/).pdf).
